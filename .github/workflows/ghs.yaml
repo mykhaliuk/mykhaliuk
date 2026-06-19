@@ -22,5 +22,7 @@ jobs:
       - name: Commit cards
         run: |
           git add profile/*.svg
+          git config user.name "${{ github.repository_owner }}"
+          git config user.email "${{ github.repository_owner }}@users.noreply.github.com"
           git commit -m "Update README cards" || exit 0
           git push
