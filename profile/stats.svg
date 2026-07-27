@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Volodymyr Mykhaliuk's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  (2026) : 438, Total PRs: 953, Total PRs Merged: 893, Merged PRs Percentage: 93.70, Total PRs Reviewed: 303, Total Issues: 108, Total Discussions Started: 3, Total Discussions Answered: 0, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  (2026) : 446, Total PRs: 953, Total PRs Merged: 893, Merged PRs Percentage: 93.70, Total PRs Reviewed: 302, Total Issues: 108, Total Discussions Started: 3, Total Discussions Answered: 0, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 101.6246518315542;
+        stroke-dashoffset: 101.35184708709579;
       }
     }
   
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >438</text>
+      >446</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -237,7 +237,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >303</text>
+      >302</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
