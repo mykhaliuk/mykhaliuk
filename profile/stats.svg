@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Volodymyr Mykhaliuk&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  (2026) : 504, Total PRs: 958, Total PRs Merged: 897, Merged PRs Percentage: 93.63, Total PRs Reviewed: 322, Total Issues: 167, Total Discussions Started: 3, Total Discussions Answered: 0, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  (2026) : 507, Total PRs: 959, Total PRs Merged: 897, Merged PRs Percentage: 93.53, Total PRs Reviewed: 326, Total Issues: 172, Total Discussions Started: 3, Total Discussions Answered: 0, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 98.70068720000492;
+        stroke-dashoffset: 98.5884591849781;
       }
     }
   
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >504</text>
+      >507</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >958</text>
+      >959</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >93.63 %</text>
+      >93.53 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -237,7 +237,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >322</text>
+      >326</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
@@ -252,7 +252,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >167</text>
+      >172</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
