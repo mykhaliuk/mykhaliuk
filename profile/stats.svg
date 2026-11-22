@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Volodymyr Mykhaliuk&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  (2026) : 1395, Total PRs: 1070, Total PRs Merged: 993, Merged PRs Percentage: 92.80, Total PRs Reviewed: 400, Total Issues: 238, Total Discussions Started: 4, Total Discussions Answered: 0, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  (2026) : 1396, Total PRs: 1070, Total PRs Merged: 993, Merged PRs Percentage: 92.80, Total PRs Reviewed: 400, Total Issues: 238, Total Discussions Started: 4, Total Discussions Answered: 0, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 89.04406415398853;
+        stroke-dashoffset: 89.04163963960467;
       }
     }
   
